@@ -9,3 +9,4 @@ kjhgfdxs
 kjhgf
 
 mergeExample
+mergeExample2
