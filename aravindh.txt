@@ -8,6 +8,8 @@ dfghjkl
 kjhgfdxs
 kjhgf
 
+mergeExample
+
 reabse
 rebase2
 rebase3
