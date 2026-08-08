@@ -11,3 +11,5 @@ kjhgf
 reabse
 rebase2
 rebase3
+
+mergeExample2
